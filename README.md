@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fernando Soto</h1>
-<h3 align="center">A passionate frontend developer from Paraguay 🌍</h3>
+<h3 align="center">A passionate web developer from Paraguay 🌍</h3>
 
 - 🔭 I’m currently working with **React JS and Next JS**
 
-- 🌱 I’m currently learning **English, and back-end technologies like php, sql and java.**
-
 - 🤝 I’m looking to collaborate on **Interesting projects as a developer**
 
-- 💬 Ask me about **React js, Next js, Css, Sass, Bootstrap, Tailwind and JavaScript**
+- 💬 Ask me about **React js, Next js, Typescript, Nodejs**
 
 - 📫 How to reach me **fernandosotto5888@gmail.com**
 
