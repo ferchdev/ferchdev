@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Soto</h1>
 <h3 align="center">A passionate software developer from Paraguay 🌍</h3>
 
-- 🔭 I’m currently working with **Next JS with Nest JS (both with Typescript)**
+- 🔭 I’m currently working with **Next JS and Nest JS (both with Typescript)**
 
 - 🤝 I’m looking to collaborate on **Interesting projects as a developer**
 
