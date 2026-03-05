@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **Interesting projects as a developer**
 
-- 💬 Ask me about **React js, Next js, Typescript, Nodejs**
+- 💬 Ask me about **React js, Next js, Typescript, Nestjs**
 
 - 📫 How to reach me **fernandosotto5888@gmail.com**
 
